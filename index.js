@@ -18,7 +18,7 @@ const builder = new addonBuilder({
                 {
                     name: "genre",
                     isRequired: false,
-                    options: ["100 Melhores Animações Brasileiras - ABRACCINE", "Desenhos", "Comédia", "Drama", "Romance", "Aventura", "Suspense", "Terror", "Documentário"]
+                    options: ["Mazzaropi", "100 Melhores Animações Brasileiras - ABRACCINE", "Desenhos", "Comédia", "Drama", "Romance", "Aventura", "Suspense", "Terror", "Documentário"]
                 }
             ]
         },
