@@ -5718,5 +5718,354 @@
         "genres": [
             "100 Melhores Curta Metragens"
         ]
+    },
+    {
+        "id": "tt3018550",
+        "type": "tvSeries",
+        "name": "Rancho Alegre",
+        "releaseInfo": "1950–1954",
+        "poster": "https://images.metahub.space/poster/medium/tt3018550/img",
+        "description": "Primeira telenovela brasileira, exibida ao vivo pela TV Tupi, com histórias do cotidiano de um rancho.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0177941",
+        "type": "movie",
+        "name": "Nadando em Dinheiro",
+        "releaseInfo": "1952",
+        "poster": "https://images.metahub.space/poster/medium/tt0177941/img",
+        "description": "Dois caipiras encontram uma mala cheia de dinheiro e passam a viver como ricos, até o verdadeiro dono aparecer.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0178010",
+        "type": "movie",
+        "name": "Sai da Frente",
+        "releaseInfo": "1952",
+        "poster": "https://images.metahub.space/poster/medium/tt0178010/img",
+        "description": "Isidoro, dono de um caminhão caindo aos pedaços, é contratado para fazer uma mudança de São Paulo para Santos, causando inúmeras confusões pelo caminho.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0177604",
+        "type": "movie",
+        "name": "Candinho",
+        "releaseInfo": "1953",
+        "poster": "https://images.metahub.space/poster/medium/tt0177604/img",
+        "description": "Candinho, um caipira órfão, sai pelo interior procurando a mãe e vivendo inúmeras aventuras.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0236083",
+        "type": "movie",
+        "name": "A Carrocinha",
+        "releaseInfo": "1955",
+        "poster": "https://images.metahub.space/poster/medium/tt0236083/img",
+        "description": "Um caipira trabalha na carrocinha capturando cachorros e acaba adotando todos os animais.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0197502",
+        "type": "movie",
+        "name": "Fuzileiro do Amor",
+        "releaseInfo": "1956",
+        "poster": "https://images.metahub.space/poster/medium/tt0197502/img",
+        "description": "Um marinheiro caipira chega à cidade e conquista todas as moças com seu jeito simples.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0181552",
+        "type": "movie",
+        "name": "O Gato de Madame",
+        "releaseInfo": "1957",
+        "poster": "https://images.metahub.space/poster/medium/tt0181552/img",
+        "description": "Um caipira chega à cidade grande e se envolve com uma madame rica por causa de seu gato de estimação.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0154958",
+        "type": "movie",
+        "name": "O Noivo da Girafa",
+        "releaseInfo": "1957",
+        "poster": "https://images.metahub.space/poster/medium/tt0154958/img",
+        "description": "Um caipira vai à capital para receber uma herança e acaba se apaixonando pela dona de uma girafa de circo.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0178332",
+        "type": "movie",
+        "name": "Chofer de Praça",
+        "releaseInfo": "1958",
+        "poster": "https://images.metahub.space/poster/medium/tt0178332/img",
+        "description": "Um motorista de táxi caipira vive situações engraçadas com seus passageiros na cidade grande.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0193813",
+        "type": "movie",
+        "name": "Chico Fumaça",
+        "releaseInfo": "1958",
+        "poster": "https://images.metahub.space/poster/medium/tt0193813/img",
+        "description": "Chico Fumaça é um caipira que vira xerife e enfrenta bandidos no interior.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0178657",
+        "type": "movie",
+        "name": "Jeca Tatu",
+        "releaseInfo": "1959",
+        "poster": "https://images.metahub.space/poster/medium/tt0178657/img",
+        "description": "Jeca Tatu é um caipira preguiçoso que se recusa a trabalhar, mas acaba sendo obrigado a mudar de vida.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0191667",
+        "type": "movie",
+        "name": "Zé do Periquito",
+        "releaseInfo": "1960",
+        "poster": "https://images.metahub.space/poster/medium/tt0191667/img",
+        "description": "Zé do Periquito é um caipira esperto que vive enganando os coronéis da região.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0191585",
+        "type": "movie",
+        "name": "Tristeza do Jeca",
+        "releaseInfo": "1961",
+        "poster": "https://images.metahub.space/poster/medium/tt0191585/img",
+        "description": "O Jeca vive triste porque sua namorada o abandonou, mas acaba encontrando um novo amor.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0194501",
+        "type": "movie",
+        "name": "O Vendedor de Linguiça",
+        "releaseInfo": "1962",
+        "poster": "https://images.metahub.space/poster/medium/tt0194501/img",
+        "description": "Um caipira vendedor de linguiça se mete em confusões ao tentar vender seu produto na cidade.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0193801",
+        "type": "movie",
+        "name": "Casinha Pequenina",
+        "releaseInfo": "1963",
+        "poster": "https://images.metahub.space/poster/medium/tt0193801/img",
+        "description": "Um casal de caipiras luta para construir sua casinha e enfrentar os poderosos da região.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0190991",
+        "type": "movie",
+        "name": "Meu Japão Brasileiro",
+        "releaseInfo": "1964",
+        "poster": "https://images.metahub.space/poster/medium/tt0190991/img",
+        "description": "Um colono japonês e um caipira brasileiro se tornam vizinhos e vivem situações hilárias por causa das diferenças culturais.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0194092",
+        "type": "movie",
+        "name": "O Lamparina",
+        "releaseInfo": "1964",
+        "poster": "https://images.metahub.space/poster/medium/tt0194092/img",
+        "description": "Lamparina, um caipira esperto, vive pregando peças nos moradores do vilarejo.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0234543",
+        "type": "movie",
+        "name": "O Puritano da Rua Augusta",
+        "releaseInfo": "1965",
+        "poster": "https://images.metahub.space/poster/medium/tt0234543/img",
+        "description": "Um caipira puritano chega à boêmia Rua Augusta e tenta moralizar todo mundo.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0139948",
+        "type": "movie",
+        "name": "O Corintiano",
+        "releaseInfo": "1967",
+        "poster": "https://images.metahub.space/poster/medium/tt0139948/img",
+        "description": "Um fanático torcedor do Corinthians vive situações hilárias por causa de sua paixão pelo clube.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0191210",
+        "type": "movie",
+        "name": "O Jeca e a Freira",
+        "releaseInfo": "1968",
+        "poster": "https://images.metahub.space/poster/medium/tt0191210/img",
+        "description": "Um caipira se apaixona por uma freira que chega ao vilarejo para ajudar a comunidade.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0191314",
+        "type": "movie",
+        "name": "No Paraíso das Solteironas",
+        "releaseInfo": "1968",
+        "poster": "https://images.metahub.space/poster/medium/tt0191314/img",
+        "description": "Um caipira chega a uma cidade onde só vivem mulheres solteiras e vira o centro das atenções.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0236817",
+        "type": "movie",
+        "name": "Uma Pistola para Djeca",
+        "releaseInfo": "1969",
+        "poster": "https://images.metahub.space/poster/medium/tt0236817/img",
+        "description": "Djeca encontra uma pistola e passa a se achar o terror do sertão.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0236020",
+        "type": "movie",
+        "name": "Betão Ronca Ferro",
+        "releaseInfo": "1970",
+        "poster": "https://images.metahub.space/poster/medium/tt0236020/img",
+        "description": "Betão é um caipira forte que trabalha na construção civil e vive se metendo em confusões.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0236266",
+        "type": "movie",
+        "name": "O Grande Xerife",
+        "releaseInfo": "1972",
+        "poster": "https://images.metahub.space/poster/medium/tt0236266/img",
+        "description": "Um caipira vira xerife de uma cidadezinha e enfrenta bandidos com seu jeito atrapalhado.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0072014",
+        "type": "movie",
+        "name": "Portugal... Minha Saudade",
+        "releaseInfo": "1973",
+        "poster": "https://images.metahub.space/poster/medium/tt0072014/img",
+        "description": "Adriano, um português radicado no Brasil, resolve voltar a Portugal depois de muitos anos, mas encontra um país bem diferente do que deixou.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0191604",
+        "type": "movie",
+        "name": "Um Caipira em Bariloche",
+        "releaseInfo": "1973",
+        "poster": "https://images.metahub.space/poster/medium/tt0191604/img",
+        "description": "O Jeca ganha uma viagem a Bariloche e vive confusões na neve com seu jeito bem brasileiro.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0191209",
+        "type": "movie",
+        "name": "O Jeca Macumbeiro",
+        "releaseInfo": "1975",
+        "poster": "https://images.metahub.space/poster/medium/tt0191209/img",
+        "description": "O Jeca se mete com macumba para tentar enriquecer e acaba causando o maior confusão.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0191208",
+        "type": "movie",
+        "name": "O Jeca Contra o Capeta",
+        "releaseInfo": "1976",
+        "poster": "https://images.metahub.space/poster/medium/tt0191208/img",
+        "description": "O Jeca faz um pacto com o diabo sem querer e precisa se livrar dele de forma bem caipira.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0233065",
+        "type": "movie",
+        "name": "Jecão... Um Fofoqueiro no Céu",
+        "releaseInfo": "1977",
+        "poster": "https://images.metahub.space/poster/medium/tt0233065/img",
+        "description": "Jecão morre e vai parar no céu, onde continua fofocando e causando confusão entre os anjos.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0233972",
+        "type": "movie",
+        "name": "O Jeca e Seu Filho Preto",
+        "releaseInfo": "1978",
+        "poster": "https://images.metahub.space/poster/medium/tt0233972/img",
+        "description": "O Jeca cria um menino negro como se fosse seu filho e enfrenta preconceito no interior.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0236010",
+        "type": "movie",
+        "name": "A Banda das Velhas Virgens",
+        "releaseInfo": "1979",
+        "poster": "https://images.metahub.space/poster/medium/tt0236010/img",
+        "description": "Um grupo de mulheres solteiras forma uma banda e contrata o Jeca como empresário.",
+        "genres": [
+            "Mazzaropi"
+        ]
+    },
+    {
+        "id": "tt0236339",
+        "type": "movie",
+        "name": "O Jeca e a Égua Milagrosa",
+        "releaseInfo": "1980",
+        "poster": "https://images.metahub.space/poster/medium/tt0236339/img",
+        "description": "O Jeca compra uma égua que dizem ser milagrosa e passa a fazer peregrinação com ela."
     }
 ]
